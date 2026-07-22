@@ -4,6 +4,7 @@ This repository provides an end-to-end implementation for building genomic found
 
 The workflow is primarily implemented using the Hugging Face framework, including Transformers, Tokenizers, Datasets, and Evaluate, and is designed to facilitate reproducible genomic language model development and adaptation to different genomes, tokenization strategies, Transformer architectures, and downstream genomic applications.
 
+
 ## Features
 
 - Generate deterministic synthetic FASTA data with configurable GC and `N` content.
@@ -20,8 +21,6 @@ The workflow is primarily implemented using the Hugging Face framework, includin
 ├── commonds_demo/   # Numbered end-to-end shell examples
 └── scripts/         # Python command-line tools
 ```
-
-The directory name `commonds_demo` is retained as used in this repository.
 
 ## Quick start
 
