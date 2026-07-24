@@ -36,6 +36,7 @@ bash 05-build_model_config.sh
 bash 06-pretrain.sh
 bash 07-generate_random_finetune_data.sh
 bash 08-finetune.sh
+bash 09-inference.sh
 ```
 
 The default example performs the following workflow:
